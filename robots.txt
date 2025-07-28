@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://evacuatorbss.ru/sitemap.xml
